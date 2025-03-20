@@ -1,0 +1,6 @@
+header {
+    width: 300px;
+    @media #{$medium} {
+        width: 600px;
+    }
+}
